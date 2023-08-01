@@ -3,5 +3,7 @@ public class Java4 {
         
         System.out.println("A".repeat(10));
 
+        System.out.println("hello");
+
     }
 }
